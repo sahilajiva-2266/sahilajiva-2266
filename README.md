@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development & Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sahil-portfolio-s.netlify.app/](https://sahil-portfolio-s.netlify.app/)
-
 - 💬 Ask me about **JavaScript, React, CRM Development, Web Dev anything reated to web devlopement**
 
 - 📫 How to reach me **sahilrajput6244@gmail.com**
